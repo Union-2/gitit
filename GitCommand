@@ -8,4 +8,4 @@ git checkout -b newbranch
 git branch -a
 git push origin branch
 git checkout branch
-git merg branch
+git merge branch
