@@ -1,0 +1,10 @@
+git clone https://github.com/UnionKim/gitit.git
+git status
+git log
+git add -A
+git commit -m "msg"
+git push
+git checkout -b newbranch
+git branch -a
+git push origin branch
+git checkout branch
