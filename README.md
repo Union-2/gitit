@@ -1,7 +1,7 @@
-# git-it
+# Let's Git It!
 
 Let's Practice Git &amp; Github
 
 This practice follows
-⋅⋅1. [https://youtu.be/FXDjmsiv8fI]
-⋅⋅2. [https://youtu.be/GaKjTjwcKQo]
+  1. [https://youtu.be/FXDjmsiv8fI]
+  2. [https://youtu.be/GaKjTjwcKQo]
